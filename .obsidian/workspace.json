@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "19edc2fff8204836",
+        "id": "7b3030354d7352eb",
         "type": "tabs",
         "children": [
           {
-            "id": "c27dbd0af00f97a3",
+            "id": "d7033ad34f5fe0af",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,7 +138,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c27dbd0af00f97a3",
+  "active": "d7033ad34f5fe0af",
   "lastOpenFiles": [
     "rule.md",
     "taerakim.md",
