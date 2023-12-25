@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "7b3030354d7352eb",
+        "id": "3a3c5d69d14510a2",
         "type": "tabs",
         "children": [
           {
-            "id": "d7033ad34f5fe0af",
+            "id": "7b689f3f47e6be12",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notion/나만의 카페 차리기/나만의 카페 차리기.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notion/나만의 카페 차리기/나만의 카페 차리기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notion/나만의 카페 차리기/나만의 카페 차리기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notion/나만의 카페 차리기/나만의 카페 차리기.md"
+              }
             }
           }
         ]
@@ -135,11 +143,22 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false
     }
   },
-  "active": "d7033ad34f5fe0af",
+  "active": "7b689f3f47e6be12",
   "lastOpenFiles": [
+    "Notion/나만의 카페 차리기/메뉴.md",
+    "Notion/나만의 카페 차리기/나만의 카페 차리기.md",
+    "Notion/나만의 카페 차리기",
+    "Notion",
+    "dream/cafe.md",
+    "IMG_8800.jpeg",
+    "IMG_8799.jpeg",
+    "IMG_4496.jpeg",
+    "README.md",
+    "231214_youtube_tip.md",
     "rule.md",
     "taerakim.md",
     "jgo.md"
