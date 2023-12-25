@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dream/Cafe/Menu.md",
-                "mode": "source",
+                "file": "Share/taeran/가계부.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dream/Cafe/Menu.md",
+                "file": "Share/taeran/가계부.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dream/Cafe/Menu.md",
+                "file": "Share/taeran/가계부.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dream/Cafe/Menu.md"
+                "file": "Share/taeran/가계부.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "2343b78e34e03629",
   "lastOpenFiles": [
-    "dream/Cafe/Interior.md",
     "dream/Cafe/Menu.md",
+    "Share/taeran/가계부.md",
+    "dream/Cafe/Interior.md",
     "dream/Cafe/Cafe.md",
     "dream/나만의 카페 차리기/메뉴.md",
     "images/IMG_8800.jpeg",
