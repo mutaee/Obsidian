@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8f44ade45ec908bd",
+        "id": "823f4a4d1dab2dfe",
         "type": "tabs",
         "children": [
           {
-            "id": "7e4a23c7f064f9d1",
+            "id": "2343b78e34e03629",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,17 +147,18 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "7e4a23c7f064f9d1",
+  "active": "2343b78e34e03629",
   "lastOpenFiles": [
     "dream/나만의 카페 차리기/메뉴.md",
+    "images/IMG_8800.jpeg",
+    "images/IMG_8799.jpeg",
+    "images/IMG_4496.jpeg",
     "dream/나만의 카페 차리기/나만의 카페 차리기.md",
+    "choiStudyPerceptualCharacteristics2013.md",
     "dream/cafe.md",
     "images/README.md",
     "dream/나만의 카페 차리기",
     "Notion",
-    "IMG_8800.jpeg",
-    "IMG_8799.jpeg",
-    "IMG_4496.jpeg",
     "README.md",
     "231214_youtube_tip.md",
     "rule.md",
