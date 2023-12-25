@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3a3c5d69d14510a2",
+        "id": "8f44ade45ec908bd",
         "type": "tabs",
         "children": [
           {
-            "id": "7b689f3f47e6be12",
+            "id": "7e4a23c7f064f9d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notion/나만의 카페 차리기/나만의 카페 차리기.md",
+                "file": "dream/나만의 카페 차리기/나만의 카페 차리기.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notion/나만의 카페 차리기/나만의 카페 차리기.md",
+                "file": "dream/나만의 카페 차리기/나만의 카페 차리기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notion/나만의 카페 차리기/나만의 카페 차리기.md",
+                "file": "dream/나만의 카페 차리기/나만의 카페 차리기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notion/나만의 카페 차리기/나만의 카페 차리기.md"
+                "file": "dream/나만의 카페 차리기/나만의 카페 차리기.md"
               }
             }
           }
@@ -147,13 +147,14 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "7b689f3f47e6be12",
+  "active": "7e4a23c7f064f9d1",
   "lastOpenFiles": [
-    "Notion/나만의 카페 차리기/메뉴.md",
-    "Notion/나만의 카페 차리기/나만의 카페 차리기.md",
-    "Notion/나만의 카페 차리기",
-    "Notion",
+    "dream/나만의 카페 차리기/메뉴.md",
+    "dream/나만의 카페 차리기/나만의 카페 차리기.md",
     "dream/cafe.md",
+    "images/README.md",
+    "dream/나만의 카페 차리기",
+    "Notion",
     "IMG_8800.jpeg",
     "IMG_8799.jpeg",
     "IMG_4496.jpeg",
