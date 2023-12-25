@@ -3,17 +3,18 @@
 - 관련 읽을 거리.
     https://fpost.co.kr/board/bbs/board.php?wr_id=29&bo_table=fsp34
 
+## Ref.
+- [커피행성](https://map.naver.com/p/entry/place/1732008617?c=15.00,0,0,0,dh)
+- [제비다방](https://map.naver.com/p/entry/place/30830770?c=15.00,0,0,0,dh)
+- [mst](https://map.naver.com/p/entry/place/1266794455?c=15.00,0,0,0,dh)
+- [VAMOS](https://map.naver.com/p/entry/place/1600322614?c=15.00,0,0,0,dh)
+- [LOW POSITION](https://map.naver.com/p/search/low%20position/place/1618279134?c=15.00,0,0,0,dh&isCorrectAnswer=true)
+- [평형]([https://naver.me/58F2UZVH](https://naver.me/58F2UZVH)) ~~아직 가보진 못했지만~~
 
-- Ref.
-    - [커피행성](https://map.naver.com/p/entry/place/1732008617?c=15.00,0,0,0,dh)
-    - [제비다방](https://map.naver.com/p/entry/place/30830770?c=15.00,0,0,0,dh)
-    - [mst](https://map.naver.com/p/entry/place/1266794455?c=15.00,0,0,0,dh)
-    - [VAMOS](https://map.naver.com/p/entry/place/1600322614?c=15.00,0,0,0,dh)
-    - [LOW POSITION](https://map.naver.com/p/search/low%20position/place/1618279134?c=15.00,0,0,0,dh&isCorrectAnswer=true)
-
-[[메뉴]]
-
-  
+## Index.
+- [[Menu]]
+- [[Interior]]
+## Detail.
 
 책을 같이 팔아야겠다 혹은 책을 읽을 수 있는 분위기를 조성하자. like 커피행성.
 
@@ -51,12 +52,14 @@
 
   
 
-![[IMG_4496.jpeg|IMG_4496.jpeg]]
+![[img_다양한얼음.jpeg | 400]]
 
-![[IMG_8799.jpeg|IMG_8799.jpeg]]
+![[img_영수증신청곡.jpeg | 400]]
 
-![[IMG_8800.jpeg|IMG_8800.jpeg]]
+![[img_영수증.jpeg | 400]]
 
 신청곡 서비스와 영수증 미쳐따. 몽당연필도 이따.
 
 컵은 되도록 가볍게 너무 무거우면 안됨
+
+핸드드립은 서버에
