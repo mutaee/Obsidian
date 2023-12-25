@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dream/나만의 카페 차리기/나만의 카페 차리기.md",
+                "file": "dream/Cafe/Cafe.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dream/나만의 카페 차리기/나만의 카페 차리기.md",
+                "file": "dream/Cafe/Cafe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dream/나만의 카페 차리기/나만의 카페 차리기.md",
+                "file": "dream/Cafe/Cafe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dream/나만의 카페 차리기/나만의 카페 차리기.md"
+                "file": "dream/Cafe/Cafe.md"
               }
             }
           }
@@ -149,6 +149,9 @@
   },
   "active": "2343b78e34e03629",
   "lastOpenFiles": [
+    "dream/Cafe/Interior.md",
+    "dream/Cafe/Menu.md",
+    "dream/Cafe/Cafe.md",
     "dream/나만의 카페 차리기/메뉴.md",
     "images/IMG_8800.jpeg",
     "images/IMG_8799.jpeg",
